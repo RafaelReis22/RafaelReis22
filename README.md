@@ -36,5 +36,6 @@ Me chamo Rafael Dos Reis, tenho 20 anos e sou natural do Rio Grande do Sul.  Atu
 
 
 ---
-![Github Contribution Snake](./snake.gif)
+<img src="./snake.svg" alt="Github Contribution Snake" width="400" />
+
 
