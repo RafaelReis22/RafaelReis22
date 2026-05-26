@@ -1,6 +1,6 @@
 <div align="center">
-<!-- Premium IA-Generated Banner -->
-<img src="./banner.png" width="100%" alt="Rafael Reis Banner" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);">
+<!-- Premium Custom SVG Banner -->
+<img src="./banner.svg" width="100%" alt="Rafael Reis Banner" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);">
 
 <br/>
 
@@ -82,14 +82,14 @@ Estudante de <b>Sistemas de Informação na PUCRS</b>, apaixonado por arquitetur
 
 <!-- Main Stats Card -->
 <a href="https://github.com/RafaelReis22">
-<img src="https://github-readme-stats.vercel.app/api?username=RafaelReis22&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="95%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=RafaelReis22&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="95%" alt="GitHub Stats" />
 </a>
 
 <br/><br/>
 
 <!-- Top Languages Card -->
 <a href="https://github.com/RafaelReis22">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis22&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" width="95%" alt="Top Languages" />
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=RafaelReis22&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" width="95%" alt="Top Languages" />
 </a>
 
 </td>
