@@ -21,100 +21,62 @@
 </p>
 </div>
 
-<br/>
+---
 
-<!-- Main Grid Container -->
-<table border="0" width="100%" cellpadding="10" cellspacing="0">
-<tr>
-<!-- Left Column: About and Tech Stack -->
-<td width="55%" valign="top">
+## 🚀 Sobre Mim | About Me
+Estudante de **Sistemas de Informação na PUCRS**, apaixonado por arquitetura de software e sistemas de alta performance. Atualmente focado no desenvolvimento de soluções escaláveis e resilientes usando **Java (Spring Boot)** e **Node.js**.
 
-<h3>🚀 Sobre Mim | About Me</h3>
-<p>
-Estudante de <b>Sistemas de Informação na PUCRS</b>, apaixonado por arquitetura de software e sistemas de alta performance. Atualmente focado no desenvolvimento de soluções escaláveis e resilientes usando <b>Java (Spring Boot)</b> e <b>Node.js</b>.
-</p>
+- 🔭 Desenvolvendo sistemas corporativos e soluções focadas em LegalTech.
+- 🌱 Aprofundando em **Microserviços**, **Cloud Native** e padrões de alta escalabilidade.
+- 🔒 Foco em **Segurança da Informação** e aplicação de **Arquitetura Limpa (Clean Architecture)**.
+- 📍 Gramado, Rio Grande do Sul, Brasil.
 
-<ul>
-<li>🔬 Desenvolvendo sistemas corporativos e soluções focadas em LegalTech.</li>
-<li>🌱 Aprofundando em <b>Microserviços</b>, <b>Cloud Native</b> e padrões de alta escalabilidade.</li>
-<li>🔒 Foco em <b>Segurança da Informação</b> e aplicação de <b>Arquitetura Limpa (Clean Architecture)</b>.</li>
-<li>📍 Gramado, Rio Grande do Sul, Brasil.</li>
-</ul>
+---
 
-<br/>
+## 🎯 Focos e Objetivos | Core Focus
+Aqui estão os pilares que guiam meu desenvolvimento profissional:
+*   **⚡ Performance:** Otimização de sistemas e algoritmos de alto rendimento.
+*   **🏗️ Arquitetura:** Construção de sistemas desacoplados, limpos e de fácil manutenção.
+*   **☁️ Escalabilidade:** Integração contínua, Docker e arquiteturas de microsserviços resilientes.
 
-<h3>🛠️ Minhas Tecnologias | Tech Stack</h3>
+---
 
-<table>
-<tr>
-<td>
-<b>Core & Back-End:</b><br/>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,maven" alt="Back-End" />
-</td>
-</tr>
-<tr>
-<td>
-<b>Front-End & Mobile:</b><br/>
-<img src="https://skillicons.dev/icons?i=react,js,swift" alt="Front-End" />
-</td>
-</tr>
-<tr>
-<td>
-<b>DevOps & Tools:</b><br/>
+## 🛠️ Minhas Tecnologias | Tech Stack
+
+### 💻 Back-End & Core
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,maven" alt="Back-End Stack" />
+
+### 🎨 Front-End & Mobile
+<img src="https://skillicons.dev/icons?i=react,js,swift" alt="Front-End Stack" />
+
+### 🔧 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Tools & DevOps" />
-</td>
-</tr>
-</table>
 
-</td>
+---
 
-<!-- Right Column: GitHub Streak & Core Focus -->
-<td width="45%" valign="top" align="center">
+## 📊 Estatísticas do GitHub | GitHub Stats
 
-<h3>📊 Estatísticas | Streak Stats</h3>
-
+<div align="center">
 <!-- Streak Stats Card (Stable) -->
 <a href="https://github.com/RafaelReis22">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis22&theme=tokyonight&hide_border=true" width="95%" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis22&theme=tokyonight&hide_border=true" width="80%" alt="Streak Stats" />
 </a>
 
 <br/><br/>
 
-<h3>🎯 Focos e Objetivos | Core Focus</h3>
-<table border="0" width="95%" cellpadding="8" cellspacing="0" style="background-color: #1a1b26; border-radius: 8px; border: 1px solid #24283b; color: #a9b1d6;">
-<tr>
-<td>
-<b>⚡ Performance:</b> Otimização de sistemas e algoritmos de alto rendimento.<br/><br/>
-<b>🏗️ Arquitetura:</b> Construção de sistemas desacoplados e de fácil manutenção.<br/><br/>
-<b>☁️ Escalabilidade:</b> Integração contínua e arquiteturas orientadas a eventos.
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br/>
-<hr/>
-
-<!-- Contribution Activity Graph (Full Width, Stable) -->
-<h3 align="center">📈 Gráfico de Atividade | Activity Graph</h3>
-<div align="center">
+<!-- Contribution Activity Graph (Custom Colors, Zero Pink, Stable) -->
 <a href="https://github.com/RafaelReis22">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis22&theme=tokyonight" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis22&bg_color=1a1b26&color=a9b1d6&line=70a5fd&point=bb9af7&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </a>
 </div>
 
-<br/>
-<hr/>
+---
 
-<!-- Contribution Snake Game -->
-<h3 align="center">🐍 Atividade de Contribuição | Contribution activity</h3>
+## 🐍 Atividade de Contribuição | Contribution activity
 <div align="center">
 <i>🐍 A animação da cobrinha iniciará após o seu commit inicial!</i>
 <br/><br/>
-<img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=2" alt="Snake Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=3" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
