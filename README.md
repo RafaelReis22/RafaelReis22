@@ -68,33 +68,43 @@ Estudante de <b>Sistemas de Informação na PUCRS</b>, apaixonado por arquitetur
 
 </td>
 
-<!-- Right Column: GitHub Statistics -->
+<!-- Right Column: GitHub Streak & Core Focus -->
 <td width="45%" valign="top" align="center">
 
-<h3>📊 Estatísticas | GitHub Stats</h3>
+<h3>📊 Estatísticas | Streak Stats</h3>
 
-<!-- Streak Stats Card -->
+<!-- Streak Stats Card (Stable) -->
 <a href="https://github.com/RafaelReis22">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis22&theme=tokyonight&hide_border=true" width="95%" alt="Streak Stats" />
 </a>
 
 <br/><br/>
 
-<!-- Main Stats Card -->
-<a href="https://github.com/RafaelReis22">
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=RafaelReis22&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="95%" alt="GitHub Stats" />
-</a>
-
-<br/><br/>
-
-<!-- Top Languages Card -->
-<a href="https://github.com/RafaelReis22">
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=RafaelReis22&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" width="95%" alt="Top Languages" />
-</a>
+<h3>🎯 Focos e Objetivos | Core Focus</h3>
+<table border="0" width="95%" cellpadding="8" cellspacing="0" style="background-color: #1a1b26; border-radius: 8px; border: 1px solid #24283b; color: #a9b1d6;">
+<tr>
+<td>
+<b>⚡ Performance:</b> Otimização de sistemas e algoritmos de alto rendimento.<br/><br/>
+<b>🏗️ Arquitetura:</b> Construção de sistemas desacoplados e de fácil manutenção.<br/><br/>
+<b>☁️ Escalabilidade:</b> Integração contínua e arquiteturas orientadas a eventos.
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
 </table>
+
+<br/>
+<hr/>
+
+<!-- Contribution Activity Graph (Full Width, Stable) -->
+<h3 align="center">📈 Gráfico de Atividade | Activity Graph</h3>
+<div align="center">
+<a href="https://github.com/RafaelReis22">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis22&theme=tokyonight" width="100%" alt="Activity Graph" />
+</a>
+</div>
 
 <br/>
 <hr/>
@@ -104,7 +114,7 @@ Estudante de <b>Sistemas de Informação na PUCRS</b>, apaixonado por arquitetur
 <div align="center">
 <i>🐍 A animação da cobrinha iniciará após o seu commit inicial!</i>
 <br/><br/>
-<img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=2" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
