@@ -52,58 +52,61 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
 
 <div align="center">
 
-### 🔒 [Projeto-TenantCore](https://github.com/RafaelReis22/Projeto-TenantCore)
-**Infraestrutura de segurança distribuída e isolamento multi-tenant para aplicações SaaS modernas.**
-<br/>
+### ⚖️ [LexGuard](https://github.com/RafaelReis22/LexGuard)
+**Infraestrutura de backend corporativa (API REST) para LegalTech, gestão imutável de laudos forenses, contratos confidenciais e autorização ABAC.**
+<br/><br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/LegalTech-Purple?style=flat-square" alt="LegalTech" />
+  <img src="https://img.shields.io/badge/ABAC_Security-Red?style=flat-square" alt="ABAC" />
+</p>
+<a href="https://github.com/RafaelReis22/LexGuard" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_Acessar_Repositório-LexGuard-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="LexGuard Repo" />
+</a>
+
+<br/><br/><br/>
+
+### 🛰️ [Rastreamento de Entregas em Tempo Real](https://github.com/RafaelReis22/-Rastreamento-de-Entregas-em-Tempo-Real)
+**Plataforma enterprise de rastreamento logístico com microsserviços Event-Driven, telemetria GPS em alta vazão, Redis Geo e WebSockets STOMP.**
+<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Event--Driven-Orange?style=flat-square" alt="Event-Driven" />
+  <img src="https://img.shields.io/badge/Redis_Geo-DC382D?style=flat-square&logo=redis" alt="Redis Geo" />
+  <img src="https://img.shields.io/badge/WebSockets-Blue?style=flat-square" alt="WebSockets" />
+</p>
+<a href="https://github.com/RafaelReis22/-Rastreamento-de-Entregas-em-Tempo-Real" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_Acessar_Repositório-Rastreamento_Logístico-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="Rastreamento Repo" />
+</a>
+
+<br/><br/><br/>
+
+### 🔒 [Projeto-TenantCore](https://github.com/RafaelReis22/Projeto-TenantCore)
+**Infraestrutura de segurança distribuída projetada para aplicações SaaS modernas com isolamento crítico de dados multi-tenant.**
+<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Multi--Tenant-Purple?style=flat-square" alt="Multi-Tenant" />
   <img src="https://img.shields.io/badge/Security-Red?style=flat-square" alt="Security" />
   <img src="https://img.shields.io/badge/Clean_Architecture-Blue?style=flat-square" alt="Clean Arch" />
-  <img src="https://img.shields.io/badge/SaaS_Multi--Tenant-Purple?style=flat-square" alt="SaaS" />
 </p>
 <a href="https://github.com/RafaelReis22/Projeto-TenantCore" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_Ver_Repositório-Projeto--TenantCore-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="TenantCore Repo" />
+  <img src="https://img.shields.io/badge/🔗_Acessar_Repositório-TenantCore-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="TenantCore Repo" />
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
-### ⚡ [ACMEVoting](https://github.com/RafaelReis22/ACMEVoting)
-**Reconstrução do sistema ACME Voting com foco em Clean Architecture, SOLID e Performance O(1).**
-<br/>
+### 🔑 [CryptoPro](https://github.com/RafaelReis22/CryptoPro)
+**Plataforma unificada de criptografia em Java com padrões de arquitetura corporativa e segurança da informação.**
+<br/><br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/High_Performance-Orange?style=flat-square" alt="Performance" />
-  <img src="https://img.shields.io/badge/SOLID-Green?style=flat-square" alt="SOLID" />
+  <img src="https://img.shields.io/badge/Cryptography-DarkGreen?style=flat-square" alt="Cryptography" />
+  <img src="https://img.shields.io/badge/Clean_Code-Blue?style=flat-square" alt="Clean Code" />
 </p>
-<a href="https://github.com/RafaelReis22/ACMEVoting" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_Ver_Repositório-ACMEVoting-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="ACMEVoting Repo" />
-</a>
-
-<br/><br/>
-
-### 🎬 [ACMEFilmes (CinePro)](https://github.com/RafaelReis22/ACMEFilmes)
-**Plataforma de alto desempenho para gestão e análise estatística de acervos audiovisuais.**
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/Data_Processing-blueviolet?style=flat-square" alt="Data" />
-  <img src="https://img.shields.io/badge/Analytics-Teal?style=flat-square" alt="Analytics" />
-</p>
-<a href="https://github.com/RafaelReis22/ACMEFilmes" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_Ver_Repositório-ACMEFilmes-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="ACMEFilmes Repo" />
-</a>
-
-<br/><br/>
-
-### 🚗 [Carros](https://github.com/RafaelReis22/Carros)
-**Sistema de simulação de veículos de alto desempenho com princípios de Arquitetura Limpa e SOLID.**
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/Simulation-blue?style=flat-square" alt="Simulation" />
-</p>
-<a href="https://github.com/RafaelReis22/Carros" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_Ver_Repositório-Carros-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="Carros Repo" />
+<a href="https://github.com/RafaelReis22/CryptoPro" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_Acessar_Repositório-CryptoPro-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="CryptoPro Repo" />
 </a>
 
 </div>
@@ -126,20 +129,23 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
 ## 📊 Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
-  <p align="center">
-    <a href="https://github.com/RafaelReis22">
-      <img src="https://github-readme-stats.vercel.app/api?username=RafaelReis22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-    </a>
-    <a href="https://github.com/RafaelReis22">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis22&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="48%" />
-    </a>
-  </p>
+  <!-- GitHub Overall Stats -->
+  <a href="https://github.com/RafaelReis22">
+    <img src="https://github-readme-stats.vercel.app/api?username=RafaelReis22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="85%" alt="GitHub Stats" />
+  </a>
 
-  <br/>
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/RafaelReis22">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis22&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="85%" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
 
   <!-- Streak Stats Card -->
   <a href="https://github.com/RafaelReis22">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis22&theme=tokyonight&hide_border=true" width="95%" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis22&theme=tokyonight&hide_border=true" width="85%" alt="Streak Stats" />
   </a>
 </div>
 
@@ -148,7 +154,7 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
 ## 🐍 Atividade de Contribuição | Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=6" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=7" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
