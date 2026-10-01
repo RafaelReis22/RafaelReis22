@@ -22,8 +22,8 @@
 
   <!-- Professional Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-🟢_Open_to_Opportunities_%26_Projects-brightgreen?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Java_%7C_Spring_Boot_%7C_Node.js-blue?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-🟢_Open_to_Opportunities-brightgreen?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Java_%7C_Spring_Boot_%7C_Clean_Arch-blue?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Location-Gramado%2C_RS_🇧🇷-informational?style=flat-square" alt="Location" />
   </p>
 </div>
@@ -32,10 +32,10 @@
 
 ## 🚀 Sobre Mim | About Me
 
-Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura de Software** e desenvolvimento de **Sistemas de Alta Performance**. Atualmente focado na construção de soluções escaláveis, resilientes e seguras aplicando princípios de **Clean Architecture**, **DDD** e ecossistema **Cloud Native**.
+Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura de Software** e desenvolvimento de **Sistemas de Alta Performance**. Focado na construção de soluções escaláveis, resilientes e seguras aplicando princípios de **Clean Architecture**, **SOLID**, **DDD** e ecossistema **Cloud Native**.
 
 - 🔭 **Atualmente:** Desenvolvendo sistemas corporativos e soluções focadas em **LegalTech**.
-- 🌱 **Evoluindo em:** Microsserviços com **Java (Spring Boot)**, **Node.js**, **Docker** e arquitetura de dados.
+- 🌱 **Evoluindo em:** Microsserviços com **Java (Spring Boot)**, **Node.js**, **Docker** e alta escalabilidade.
 - 🔒 **Engenharia & Qualidade:** Aplicação rigorosa de **Clean Code**, **Segurança da Informação** e testes automatizados.
 - 📍 Gramado, Rio Grande do Sul, Brasil.
 
@@ -43,41 +43,28 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
 
 ## 🎯 Focos e Objetivos | Core Focus
 * **⚡ Performance:** Otimização de sistemas e algoritmos de alto rendimento.
-* **🏗️ Arquitetura:** Construção de sistemas desacoplados, limpos e de fácil manutenção.
+* **🏗️ Arquitetura:** Construção de sistemas desacoplados, limpos e de fácil manutenção (Clean Architecture).
 * **☁️ Escalabilidade:** Integração contínua, Docker e microsserviços resilientes.
 
 ---
 
-## 📌 Projetos em Destaque | Featured Projects
+## 📌 Repositórios em Destaque | Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚖️ LegalTech Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-Spring_Boot-007396?style=flat-square&logo=java" alt="Java Spring" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" alt="Postgres" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
-      </p>
-      <p>Plataforma corporativa para automação e gestão de dados jurídicos com arquitetura em microsserviços resilientes.</p>
-      <p align="center">
-        <a href="https://github.com/RafaelReis22"><b>🔗 Ver Repositórios »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ High-Performance Microservices</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" alt="Node" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TS" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
-      </p>
-      <p>APIs escaláveis focadas em alta vazão de requisições, resiliência e integração contínua.</p>
-      <p align="center">
-        <a href="https://github.com/RafaelReis22"><b>🔗 Ver Repositórios »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🔒 [Projeto-TenantCore](https://github.com/RafaelReis22/Projeto-TenantCore)
+> Infraestrutura de segurança distribuída projetada para aplicações SaaS modernas que exigem isolamento crítico de dados multi-tenant.
+- **Tech Stack:** `Java` `Security` `Clean Architecture` `SaaS`
+
+### ⚡ [ACMEVoting](https://github.com/RafaelReis22/ACMEVoting)
+> Reconstrução de alta performance e rigor arquitetural do sistema de votação ACME Voting, com foco em SOLID e complexidade algorítmica O(1).
+- **Tech Stack:** `Java` `High Performance` `Algorithms` `Clean Code`
+
+### 🎬 [ACMEFilmes (CinePro)](https://github.com/RafaelReis22/ACMEFilmes)
+> Plataforma CinePro para processamento e gestão de acervos audiovisuais, transformando catálogos em relatórios estatísticos e analíticos.
+- **Tech Stack:** `Java` `Data Processing` `Analytics` `Software Engineering`
+
+### 🚗 [Carros](https://github.com/RafaelReis22/Carros)
+> Sistema de simulação de veículos de alto desempenho construído com princípios de Arquitetura Limpa e SOLID.
+- **Tech Stack:** `Java` `Simulation` `Clean Architecture`
 
 ---
 
@@ -97,26 +84,20 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
 ## 📊 Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/RafaelReis22">
-          <img src="https://github-readme-stats.vercel.app/api?username=RafaelReis22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RafaelReis22">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis22&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="170" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/RafaelReis22">
+      <img src="https://github-readme-stats.vercel.app/api?username=RafaelReis22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    </a>
+    <a href="https://github.com/RafaelReis22">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis22&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="48%" />
+    </a>
+  </p>
 
   <br/>
 
   <!-- Streak Stats Card -->
   <a href="https://github.com/RafaelReis22">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis22&theme=tokyonight&hide_border=true" width="90%" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis22&theme=tokyonight&hide_border=true" width="95%" alt="Streak Stats" />
   </a>
 
   <br/><br/>
@@ -132,7 +113,7 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
 ## 🐍 Atividade de Contribuição | Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=4" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=5" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
