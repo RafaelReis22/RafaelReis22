@@ -124,14 +124,9 @@ Estudante de **Sistemas de Informação na PUCRS**, focado em **Arquitetura de S
 
 ## 🛠️ Minhas Tecnologias | Tech Stack
 
-### 💻 Back-End & Core
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,postgres,maven" alt="Back-End Stack" />
-
-### 🎨 Front-End & Mobile
-<img src="https://skillicons.dev/icons?i=react,next,js,swift,html,css" alt="Front-End Stack" />
-
-### 🔧 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" alt="Tools & DevOps" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,postgres,maven,react,next,js,swift,docker,git,github,vscode,postman,linux" alt="Tech Stack" />
+</div>
 
 ---
 
@@ -158,7 +153,7 @@ Estudante de **Sistemas de Informação na PUCRS**, focado em **Arquitetura de S
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=10" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=11" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
