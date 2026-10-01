@@ -133,30 +133,27 @@ No dia a dia, dedico meu tempo a construir projetos práticos que resolvem probl
 ## 📈 Atividade no GitHub
 
 <div align="center">
-  <!-- GitHub Overall Stats -->
-  <a href="https://github.com/RafaelReis22">
-    <img src="https://github-readme-stats.vercel.app/api?username=RafaelReis22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="85%" alt="GitHub Stats" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/RafaelReis22">
+      <img src="https://github-readme-stats.vercel.app/api?username=RafaelReis22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/RafaelReis22">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis22&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="150" alt="Top Languages" />
+    </a>
+  </p>
 
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/RafaelReis22">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis22&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="85%" alt="Top Languages" />
-  </a>
-
-  <br/><br/>
+  <br/>
 
   <!-- Streak Stats Card -->
   <a href="https://github.com/RafaelReis22">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis22&theme=tokyonight&hide_border=true" width="85%" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis22&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=8" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=9" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
