@@ -30,20 +30,25 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🚀 Sobre Mim | About Me
 
-Sou estudante de **Sistemas de Informação na PUCRS**, com foco no desenvolvimento de software backend e full stack. Trabalho principalmente criando APIs, plataformas SaaS e sistemas distribuídos utilizando **Java 21**, **Spring Boot 3** e **Node.js / Next.js**.
+Estudante de **Sistemas de Informação na PUCRS**, focado em **Arquitetura de Software** e desenvolvimento de **Sistemas de Alta Performance**. Trabalho no desenvolvimento de aplicações escaláveis, resilientes e seguras com **Java (Spring Boot)**, **Node.js / Next.js** e **Docker**.
 
-No dia a dia, dedico meu tempo a construir projetos práticos que resolvem problemas reais de logística, observabilidade de APIs, atendimento com IA e sistemas multi-tenant.
-
-- 🎓 Cursando Sistemas de Informação na PUCRS
-- 💻 Foco principal em **Java / Spring Boot**, **Next.js**, **Docker** e banco de dados **PostgreSQL**
-- 🛠️ Experiência em microsserviços, mensageria e observabilidade com Grafana
-- 📍 Gramado, RS - Brasil
+- 🔭 **Atualmente:** Desenvolvendo ecossistemas SaaS, microsserviços e soluções corporativas.
+- 🌱 **Evoluindo em:** Arquiteturas orientadas a eventos (Event-Driven), observabilidade com Grafana e IA agêntica.
+- 🔒 **Engenharia & Qualidade:** Aplicação de **Clean Architecture**, **SOLID**, segurança de dados e testes automatizados.
+- 📍 Gramado, Rio Grande do Sul, Brasil.
 
 ---
 
-## 🚀 Projetos Principais
+## 🎯 Focos e Objetivos | Core Focus
+* **⚡ Performance:** Otimização de sistemas e algoritmos de alto rendimento.
+* **🏗️ Arquitetura:** Construção de sistemas desacoplados, limpos e de fácil manutenção.
+* **☁️ Escalabilidade:** Integração contínua, Docker e microsserviços resilientes.
+
+---
+
+## 📌 Repositórios em Destaque | Featured Projects
 
 <div align="center">
 
@@ -117,20 +122,20 @@ No dia a dia, dedico meu tempo a construir projetos práticos que resolvem probl
 
 ---
 
-## 🛠️ Stacks & Ferramentas
+## 🛠️ Minhas Tecnologias | Tech Stack
 
-### Back-End & Linguagens
+### 💻 Back-End & Core
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,postgres,maven" alt="Back-End Stack" />
 
-### Front-End & Interfaces
+### 🎨 Front-End & Mobile
 <img src="https://skillicons.dev/icons?i=react,next,js,swift,html,css" alt="Front-End Stack" />
 
-### Ferramentas & DevOps
+### 🔧 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" alt="Tools & DevOps" />
 
 ---
 
-## 📈 Atividade no GitHub
+## 📊 Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
   <p align="center">
@@ -153,7 +158,7 @@ No dia a dia, dedico meu tempo a construir projetos práticos que resolvem probl
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=9" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=10" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
