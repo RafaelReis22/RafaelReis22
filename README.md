@@ -5,7 +5,7 @@
   <br/><br/>
 
   <!-- Subtitle Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=26&duration=2000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Information+Systems+Student;🚀+Building+Scalable+%26+High-Performance+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=26&duration=2000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Information+Systems+Student;🚀+Building+High-Performance+Systems" alt="Typing SVG" />
 
   <!-- Social Connections -->
   <p align="center">
@@ -22,53 +22,86 @@
 
   <!-- Professional Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-🟢_Open_to_Opportunities-brightgreen?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Java_%7C_Spring_Boot_%7C_Clean_Arch-blue?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-🟢_Aberto_a_Oportunidades-brightgreen?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Java_21_%7C_Spring_Boot_3_%7C_Next.js-blue?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Location-Gramado%2C_RS_🇧🇷-informational?style=flat-square" alt="Location" />
   </p>
 </div>
 
 ---
 
-## 🚀 Sobre Mim | About Me
+## 👨‍💻 Sobre Mim
 
-Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura de Software** e desenvolvimento de **Sistemas de Alta Performance**. Focado na construção de soluções escaláveis, resilientes e seguras aplicando princípios de **Clean Architecture**, **SOLID**, **DDD** e ecossistema **Cloud Native**.
+Sou estudante de **Sistemas de Informação na PUCRS**, com foco no desenvolvimento de software backend e full stack. Trabalho principalmente criando APIs, plataformas SaaS e sistemas distribuídos utilizando **Java 21**, **Spring Boot 3** e **Node.js / Next.js**.
 
-- 🔭 **Atualmente:** Desenvolvendo sistemas corporativos e soluções focadas em **LegalTech**.
-- 🌱 **Evoluindo em:** Microsserviços com **Java (Spring Boot)**, **Node.js**, **Docker** e alta escalabilidade.
-- 🔒 **Engenharia & Qualidade:** Aplicação rigorosa de **Clean Code**, **Segurança da Informação** e testes automatizados.
-- 📍 Gramado, Rio Grande do Sul, Brasil.
+No dia a dia, dedico meu tempo a construir projetos práticos que resolvem problemas reais de logística, observabilidade de APIs, atendimento com IA e sistemas multi-tenant.
 
----
-
-## 🎯 Focos e Objetivos | Core Focus
-* **⚡ Performance:** Otimização de sistemas e algoritmos de alto rendimento.
-* **🏗️ Arquitetura:** Construção de sistemas desacoplados, limpos e de fácil manutenção (Clean Architecture).
-* **☁️ Escalabilidade:** Integração contínua, Docker e microsserviços resilientes.
+- 🎓 Cursando Sistemas de Informação na PUCRS
+- 💻 Foco principal em **Java / Spring Boot**, **Next.js**, **Docker** e banco de dados **PostgreSQL**
+- 🛠️ Experiência em microsserviços, mensageria e observabilidade com Grafana
+- 📍 Gramado, RS - Brasil
 
 ---
 
-## 📌 Repositórios em Destaque | Featured Projects
+## 🚀 Projetos Principais
 
 <div align="center">
 
-### ⚖️ [LexGuard](https://github.com/RafaelReis22/LexGuard)
-**Infraestrutura de backend corporativa (API REST) para LegalTech, gestão imutável de laudos forenses, contratos confidenciais e autorização ABAC.**
+### 📌 [TaskFlow Pro](https://github.com/RafaelReis22/taskflow-pro)
+**Enterprise SaaS de gerenciamento de projetos com arquitetura moderna.**
+<br/>
+*Plataforma completa desenvolvida em Java 21, Spring Boot 3 e Next.js 15, com fluxo de tarefas, permissões e organização de times.*
+<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=java" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot" alt="Spring Boot 3" />
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs" alt="Next.js 15" />
+  <img src="https://img.shields.io/badge/SaaS-Purple?style=flat-square" alt="SaaS" />
+</p>
+<a href="https://github.com/RafaelReis22/taskflow-pro" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_Ver_no_GitHub-TaskFlow_Pro-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="TaskFlow Pro" />
+</a>
+
+<br/><br/><br/>
+
+### 🤖 [Omnichannel AI](https://github.com/RafaelReis22/omnichannel-ai)
+**Plataforma SaaS de atendimento multicanal com Inteligência Artificial Agêntica (RAG).**
+<br/>
+*Centraliza WhatsApp, Instagram, Messenger, e-mail e webchat em um painel único com respostas inteligentes auditáveis.*
 <br/><br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/LegalTech-Purple?style=flat-square" alt="LegalTech" />
-  <img src="https://img.shields.io/badge/ABAC_Security-Red?style=flat-square" alt="ABAC" />
+  <img src="https://img.shields.io/badge/IA_Agêntica-FF6F00?style=flat-square&logo=openai" alt="IA" />
+  <img src="https://img.shields.io/badge/RAG-DarkGreen?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Omnichannel-Blue?style=flat-square" alt="Omnichannel" />
 </p>
-<a href="https://github.com/RafaelReis22/LexGuard" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_Acessar_Repositório-LexGuard-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="LexGuard Repo" />
+<a href="https://github.com/RafaelReis22/omnichannel-ai" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_Ver_no_GitHub-Omnichannel_AI-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="Omnichannel AI" />
+</a>
+
+<br/><br/><br/>
+
+### 📊 [Plataforma de Monitoramento de APIs](https://github.com/RafaelReis22/Plataforma-de-Monitoramento-de-APIs)
+**Pipeline de observabilidade, métricas HTTP e métricas de hardware.**
+<br/>
+*Monitoramento completo para endpoints HTTP, análise de performance e integração direta com dashboards do Grafana.*
+<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Observabilidade-Teal?style=flat-square" alt="Observabilidade" />
+  <img src="https://img.shields.io/badge/APM-Blue?style=flat-square" alt="APM" />
+</p>
+<a href="https://github.com/RafaelReis22/Plataforma-de-Monitoramento-de-APIs" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_Ver_no_GitHub-Monitoramento_APIs-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="Monitoramento de APIs" />
 </a>
 
 <br/><br/><br/>
 
 ### 🛰️ [Rastreamento de Entregas em Tempo Real](https://github.com/RafaelReis22/-Rastreamento-de-Entregas-em-Tempo-Real)
-**Plataforma enterprise de rastreamento logístico com microsserviços Event-Driven, telemetria GPS em alta vazão, Redis Geo e WebSockets STOMP.**
+**Sistema de rastreamento logístico com microsserviços orientados a eventos.**
+<br/>
+*Ingestão de dados GPS em alta velocidade, indexação geoespacial no Redis Geo e atualização ao vivo via WebSockets STOMP.*
 <br/><br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
@@ -77,56 +110,27 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
   <img src="https://img.shields.io/badge/WebSockets-Blue?style=flat-square" alt="WebSockets" />
 </p>
 <a href="https://github.com/RafaelReis22/-Rastreamento-de-Entregas-em-Tempo-Real" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_Acessar_Repositório-Rastreamento_Logístico-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="Rastreamento Repo" />
-</a>
-
-<br/><br/><br/>
-
-### 🔒 [Projeto-TenantCore](https://github.com/RafaelReis22/Projeto-TenantCore)
-**Infraestrutura de segurança distribuída projetada para aplicações SaaS modernas com isolamento crítico de dados multi-tenant.**
-<br/><br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/Multi--Tenant-Purple?style=flat-square" alt="Multi-Tenant" />
-  <img src="https://img.shields.io/badge/Security-Red?style=flat-square" alt="Security" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-Blue?style=flat-square" alt="Clean Arch" />
-</p>
-<a href="https://github.com/RafaelReis22/Projeto-TenantCore" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_Acessar_Repositório-TenantCore-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="TenantCore Repo" />
-</a>
-
-<br/><br/><br/>
-
-### 🔑 [CryptoPro](https://github.com/RafaelReis22/CryptoPro)
-**Plataforma unificada de criptografia em Java com padrões de arquitetura corporativa e segurança da informação.**
-<br/><br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/Cryptography-DarkGreen?style=flat-square" alt="Cryptography" />
-  <img src="https://img.shields.io/badge/Clean_Code-Blue?style=flat-square" alt="Clean Code" />
-</p>
-<a href="https://github.com/RafaelReis22/CryptoPro" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_Acessar_Repositório-CryptoPro-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="CryptoPro Repo" />
+  <img src="https://img.shields.io/badge/🔗_Ver_no_GitHub-Rastreamento_Logístico-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="Rastreamento Logistico" />
 </a>
 
 </div>
 
 ---
 
-## 🛠️ Minhas Tecnologias | Tech Stack
+## 🛠️ Stacks & Ferramentas
 
-### 💻 Back-End & Core
+### Back-End & Linguagens
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,postgres,maven" alt="Back-End Stack" />
 
-### 🎨 Front-End & Mobile
-<img src="https://skillicons.dev/icons?i=react,js,swift,html,css" alt="Front-End Stack" />
+### Front-End & Interfaces
+<img src="https://skillicons.dev/icons?i=react,next,js,swift,html,css" alt="Front-End Stack" />
 
-### 🔧 DevOps & Tools
+### Ferramentas & DevOps
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" alt="Tools & DevOps" />
 
 ---
 
-## 📊 Estatísticas do GitHub | GitHub Stats
+## 📈 Atividade no GitHub
 
 <div align="center">
   <!-- GitHub Overall Stats -->
@@ -151,15 +155,12 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
 
 ---
 
-## 🐍 Atividade de Contribuição | Contribution Activity
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=7" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=8" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
 
-<!-- Footer waving layout matching Tokyo Night theme -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=100&section=footer" width="100%" />
 </p>
