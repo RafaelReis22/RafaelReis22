@@ -50,21 +50,63 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
 
 ## 📌 Repositórios em Destaque | Featured Projects
 
+<div align="center">
+
 ### 🔒 [Projeto-TenantCore](https://github.com/RafaelReis22/Projeto-TenantCore)
-> Infraestrutura de segurança distribuída projetada para aplicações SaaS modernas que exigem isolamento crítico de dados multi-tenant.
-- **Tech Stack:** `Java` `Security` `Clean Architecture` `SaaS`
+**Infraestrutura de segurança distribuída e isolamento multi-tenant para aplicações SaaS modernas.**
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Security-Red?style=flat-square" alt="Security" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-Blue?style=flat-square" alt="Clean Arch" />
+  <img src="https://img.shields.io/badge/SaaS_Multi--Tenant-Purple?style=flat-square" alt="SaaS" />
+</p>
+<a href="https://github.com/RafaelReis22/Projeto-TenantCore" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_Ver_Repositório-Projeto--TenantCore-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="TenantCore Repo" />
+</a>
+
+<br/><br/>
 
 ### ⚡ [ACMEVoting](https://github.com/RafaelReis22/ACMEVoting)
-> Reconstrução de alta performance e rigor arquitetural do sistema de votação ACME Voting, com foco em SOLID e complexidade algorítmica O(1).
-- **Tech Stack:** `Java` `High Performance` `Algorithms` `Clean Code`
+**Reconstrução do sistema ACME Voting com foco em Clean Architecture, SOLID e Performance O(1).**
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/High_Performance-Orange?style=flat-square" alt="Performance" />
+  <img src="https://img.shields.io/badge/SOLID-Green?style=flat-square" alt="SOLID" />
+</p>
+<a href="https://github.com/RafaelReis22/ACMEVoting" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_Ver_Repositório-ACMEVoting-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="ACMEVoting Repo" />
+</a>
+
+<br/><br/>
 
 ### 🎬 [ACMEFilmes (CinePro)](https://github.com/RafaelReis22/ACMEFilmes)
-> Plataforma CinePro para processamento e gestão de acervos audiovisuais, transformando catálogos em relatórios estatísticos e analíticos.
-- **Tech Stack:** `Java` `Data Processing` `Analytics` `Software Engineering`
+**Plataforma de alto desempenho para gestão e análise estatística de acervos audiovisuais.**
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Data_Processing-blueviolet?style=flat-square" alt="Data" />
+  <img src="https://img.shields.io/badge/Analytics-Teal?style=flat-square" alt="Analytics" />
+</p>
+<a href="https://github.com/RafaelReis22/ACMEFilmes" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_Ver_Repositório-ACMEFilmes-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="ACMEFilmes Repo" />
+</a>
+
+<br/><br/>
 
 ### 🚗 [Carros](https://github.com/RafaelReis22/Carros)
-> Sistema de simulação de veículos de alto desempenho construído com princípios de Arquitetura Limpa e SOLID.
-- **Tech Stack:** `Java` `Simulation` `Clean Architecture`
+**Sistema de simulação de veículos de alto desempenho com princípios de Arquitetura Limpa e SOLID.**
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Simulation-blue?style=flat-square" alt="Simulation" />
+</p>
+<a href="https://github.com/RafaelReis22/Carros" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_Ver_Repositório-Carros-0070f3?style=for-the-badge&logo=github&logoColor=white" alt="Carros Repo" />
+</a>
+
+</div>
 
 ---
 
@@ -99,13 +141,6 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
   <a href="https://github.com/RafaelReis22">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis22&theme=tokyonight&hide_border=true" width="95%" alt="Streak Stats" />
   </a>
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <a href="https://github.com/RafaelReis22">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis22&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=bb9af7&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
 </div>
 
 ---
@@ -113,7 +148,7 @@ Estudante de **Sistemas de Informação na PUCRS**, apaixonado por **Arquitetura
 ## 🐍 Atividade de Contribuição | Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=5" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/RafaelReis22/RafaelReis22/output/github-snake-dark.svg?v=6" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
